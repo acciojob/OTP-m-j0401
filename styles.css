@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.code-container{
+	display:flex;
+	justify-content:space-between;
+}
+.code{
+	margin-top:50px;
+	height:50px;
+	width:50px;
+	border-radius:20px;
+	text-align:center;
+	font-size:30px;
+}
+.selected{
+	border:2px blue solid;
+}

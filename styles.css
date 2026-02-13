@@ -14,6 +14,6 @@ h1{
 	text-align:center;
 	font-size:30px;
 }
-.selected{
+.focused{
 	border:2px blue solid;
 }
